@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\camiu\\Downloads\\StudentManagement1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\camiu\\Downloads\\StudentManagement1\\StudentManagement1\\StudentManagement1.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentManagement1\\StudentManagement1.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\camiu\\Downloads\\StudentManagement1\\StudentManagement1\\StudentManagement1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentManagement1\\StudentManagement1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\camiu\\Downloads\\StudentManagement1\\StudentManagement1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentManagement1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\camiu\\Downloads\\StudentManagement1\\StudentManagement1\\Views\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentManagement1\\Views\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\camiu\\Downloads\\StudentManagement1\\StudentManagement1\\Models\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentManagement1\\Models\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\camiu\\Downloads\\StudentManagement1\\StudentManagement1\\Controllers\\StudentsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentManagement1\\Controllers\\StudentsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\camiu\\Downloads\\StudentManagement1\\StudentManagement1\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentManagement1\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\camiu\\Downloads\\StudentManagement1\\StudentManagement1\\bin\\Debug\\net8.0\\System.Composition.Convention.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentManagement1\\bin\\Debug\\net8.0\\System.Composition.Convention.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\camiu\\Downloads\\StudentManagement1\\StudentManagement1\\bin\\Debug\\net8.0\\System.Composition.AttributedModel.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentManagement1\\bin\\Debug\\net8.0\\System.Composition.AttributedModel.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\camiu\\Downloads\\StudentManagement1\\StudentManagement1\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentManagement1\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\camiu\\Downloads\\StudentManagement1\\StudentManagement1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentManagement1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\camiu\\Downloads\\StudentManagement1\\StudentManagement1\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentManagement1\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\camiu\\Downloads\\StudentManagement1\\StudentManagement1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentManagement1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentManagement1.csproj.user",
+              "DocumentMoniker": "C:\\Users\\camiu\\Downloads\\StudentManagement1\\StudentManagement1\\StudentManagement1.csproj.user",
+              "RelativeDocumentMoniker": "StudentManagement1\\StudentManagement1.csproj.user",
+              "ToolTip": "C:\\Users\\camiu\\Downloads\\StudentManagement1\\StudentManagement1\\StudentManagement1.csproj.user",
+              "RelativeToolTip": "StudentManagement1\\StudentManagement1.csproj.user",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2024-07-31T18:59:17.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\camiu\\Downloads\\StudentManagement1\\StudentManagement1\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "StudentManagement1\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\camiu\\Downloads\\StudentManagement1\\StudentManagement1\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "StudentManagement1\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-31T18:59:03.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\camiu\\Downloads\\StudentManagement1\\StudentManagement1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\camiu\\Downloads\\StudentManagement1\\StudentManagement1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "StudentManagement1\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-31T18:58:53.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\camiu\\Downloads\\StudentManagement1\\StudentManagement1\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagement1\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\camiu\\Downloads\\StudentManagement1\\StudentManagement1\\Models\\Student.cs",
+              "RelativeToolTip": "StudentManagement1\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T18:58:28.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\camiu\\Downloads\\StudentManagement1\\StudentManagement1\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "StudentManagement1\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\camiu\\Downloads\\StudentManagement1\\StudentManagement1\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "StudentManagement1\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T18:58:10.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentManagement1.csproj",
+              "DocumentMoniker": "C:\\Users\\camiu\\Downloads\\StudentManagement1\\StudentManagement1\\StudentManagement1.csproj",
+              "RelativeDocumentMoniker": "StudentManagement1\\StudentManagement1.csproj",
+              "ToolTip": "C:\\Users\\camiu\\Downloads\\StudentManagement1\\StudentManagement1\\StudentManagement1.csproj",
+              "RelativeToolTip": "StudentManagement1\\StudentManagement1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-31T18:48:50.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "System.Composition.Convention.dll",
+              "DocumentMoniker": "C:\\Users\\camiu\\Downloads\\StudentManagement1\\StudentManagement1\\bin\\Debug\\net8.0\\System.Composition.Convention.dll",
+              "RelativeDocumentMoniker": "StudentManagement1\\bin\\Debug\\net8.0\\System.Composition.Convention.dll",
+              "ToolTip": "C:\\Users\\camiu\\Downloads\\StudentManagement1\\StudentManagement1\\bin\\Debug\\net8.0\\System.Composition.Convention.dll",
+              "RelativeToolTip": "StudentManagement1\\bin\\Debug\\net8.0\\System.Composition.Convention.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2024-07-31T18:58:02.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "System.Composition.AttributedModel.dll",
+              "DocumentMoniker": "C:\\Users\\camiu\\Downloads\\StudentManagement1\\StudentManagement1\\bin\\Debug\\net8.0\\System.Composition.AttributedModel.dll",
+              "RelativeDocumentMoniker": "StudentManagement1\\bin\\Debug\\net8.0\\System.Composition.AttributedModel.dll",
+              "ToolTip": "C:\\Users\\camiu\\Downloads\\StudentManagement1\\StudentManagement1\\bin\\Debug\\net8.0\\System.Composition.AttributedModel.dll",
+              "RelativeToolTip": "StudentManagement1\\bin\\Debug\\net8.0\\System.Composition.AttributedModel.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2024-07-31T18:58:01.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\camiu\\Downloads\\StudentManagement1\\StudentManagement1\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "StudentManagement1\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\camiu\\Downloads\\StudentManagement1\\StudentManagement1\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "StudentManagement1\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T18:54:13.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\camiu\\Downloads\\StudentManagement1\\StudentManagement1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StudentManagement1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\camiu\\Downloads\\StudentManagement1\\StudentManagement1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StudentManagement1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T18:50:07.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\camiu\\Downloads\\StudentManagement1\\StudentManagement1\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentManagement1\\appsettings.json",
+              "ToolTip": "C:\\Users\\camiu\\Downloads\\StudentManagement1\\StudentManagement1\\appsettings.json",
+              "RelativeToolTip": "StudentManagement1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-31T18:49:58.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\camiu\\Downloads\\StudentManagement1\\StudentManagement1\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "StudentManagement1\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\camiu\\Downloads\\StudentManagement1\\StudentManagement1\\appsettings.Development.json",
+              "RelativeToolTip": "StudentManagement1\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-31T18:49:55.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\camiu\\Downloads\\StudentManagement1\\StudentManagement1\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagement1\\Program.cs",
+              "ToolTip": "C:\\Users\\camiu\\Downloads\\StudentManagement1\\StudentManagement1\\Program.cs",
+              "RelativeToolTip": "StudentManagement1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T18:48:46.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
